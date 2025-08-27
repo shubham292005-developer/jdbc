@@ -28,6 +28,7 @@ public class InventoryManagementSystem {
                 System.out.println("6. Exit");
                 System.out.print("Enter your choice: ");
                 //hi my name is shubham
+                //hi 
                 int choice = scanner.nextInt();
                 switch (choice) {
                     case 1:
