@@ -27,7 +27,7 @@ public class InventoryManagementSystem {
                 System.out.println("5. View Orders");
                 System.out.println("6. Exit");
                 System.out.print("Enter your choice: ");
-                
+                //hi my name is shubham
                 int choice = scanner.nextInt();
                 switch (choice) {
                     case 1:
